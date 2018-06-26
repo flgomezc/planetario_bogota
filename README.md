@@ -1,4 +1,6 @@
-# planetario_bogota
+# Repo: Planetario Bogota
+
+![alt text](https://raw.githubusercontent.com/flgomezc/planetario_bogota/master/images/logo_planetario.png "Logo Planetario de Bogotá 2018")
 
 Hola! Este es un repositorio de cursos en el Planetario de Bogotá, Colombia.
 
